@@ -1,4 +1,4 @@
-public class RemovalThreeDigitNumber 
+public class RemoveLastThreeDigitsOfNumber.java
 {
     public static void main(String[] args) 
     {
